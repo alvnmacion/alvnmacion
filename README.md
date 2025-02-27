@@ -101,10 +101,6 @@
 
 ###
 
-<img align="right" height="200" src="https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/441260361_2186908508317891_3998638388872393534_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHsDObCfK6xop4xqRyG_xabkKrYVNhDubuQqthU2EO5u9mmepYXYwZ_WT6Eho8KLvL5an6Fbp6oI7H1Va6y-E1F&_nc_ohc=bz5QYN6zXscQ7kNvgE5_wj3&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=AhDC5Bjkfa_vQKHwNZCPQfP&oh=00_AYBshZj1QYz-NKMnGKo2oVKJD3wNqmh-FK3K2wCC0kh6lQ&oe=67C65DA1"  />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvnmacion/alvnmacion/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvnmacion/alvnmacion/output/github-snake.svg" />
