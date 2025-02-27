@@ -2,15 +2,12 @@
 
 <h2 align="left">Hi 👋! My name is Alvin Macion and I'm a Computer Science Student, I Specialized in FullStack Development, from Baybay City, Leyte</h2>
 
-###
 
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://wallpapercave.com/wp/wp8606854.jpg"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -19,7 +16,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvnmacion&theme=cotton-candy&area=true&hide_border=false&line=5454&title_color=4654&bg_color=4&color=4&point=34634&area_color=42345" height="150" alt="activity-graph graph"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -83,7 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -99,12 +94,8 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvnmacion/alvnmacion/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvnmacion/alvnmacion/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alvnmacion/alvnmacion/output/github-snake.svg" />
 </picture>
-
-###
