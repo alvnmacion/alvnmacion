@@ -11,12 +11,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvnmacion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvnmacion&theme=cotton-candy&area=true&hide_border=false&line=5454&title_color=4654&bg_color=4&color=4&point=34634&area_color=42345" height="150" alt="activity-graph graph"  />
-</div>
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
