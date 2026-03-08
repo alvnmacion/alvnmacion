@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Alvin Macion and I'm a Computer Science Student, I Specialized in FullStack Development, from Baybay City, Leyte</h2>
+<h2 align="left">Hi! My name is Alvin Macion and I'm a Computer Science Student, I Specialized in FullStack Development, from Baybay City, Leyte</h2>
 
 
 <br clear="both">
